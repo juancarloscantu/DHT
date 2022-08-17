@@ -1,0 +1,103 @@
+================
+12/12/16	
+index.html	
+user: jc 
+================
+- Added the gas prices
+- Setup comments for the Header/ Nav
+
+
+=================
+12/12/16  	
+example.html	
+user: jc
+=================
+- Created example.html it'll be the container fluid. Used the jumbotron narrow template.
+- jumbotron-narrow.css added to the css folder.
+- Added the gas prices
+- Added sections
+- Added map (need to make it responsive)
+- Added smooth scrolling jQuery
+
+================
+12/16/16	
+index.html
+creative.css
+user: jc	
+================
+- copied files (Down hole threading layout) to root 
+- Safety Blue 134BAC
+- Deleted example.html not using that layout
+- Changed the background to 134BAC
+- Buttons changed to 134BAC (need to fix hover)
+- Mobile dropdown to 134BAC
+- Brand to 134BAC
+
+To fix:
+- Button hover, still orange
+- Social media buttons , remove orange hover
+- Services icons need to be a different color
+- Our amazing team:
+	- change gray font to another color
+	- Place holders need to be removed
+
+===============
+12/17/16
+
+index.html
+creative.css
+agency.css
+user: jc
+===============
+
+Fixed
+- Button hover, now 134BAC
+- Changed service icons to 134BAC
+agency.css 
+	- added class text-muted-2 color to black
+		- Our amazing services font now black
+	-social buttons now 2263d4 (lighter blue)
+
+
+To Fix/Do:
+- remove place holders
+- add content 
+- change the orange image bg for "The services you need"
+
+
+====================
+12/22/16
+index.html
+user: jc
+===================
+New
+- Added content
+- Added natural gas prices
+
+To Do
+- remove place holder pictures
+- change the orange image bg for "The services you need"
+- need to position gas prices else where if needed
+- link social media
+- add service pages (More info)
+- change services icons
+- need pictures
+
+====================
+12/30/16
+index.html
+agency.css
+User: jc
+===================
+New
+- Added Eric Couch temp image
+- Added Eric Couch’s Linkdin
+- Linked social media to the footer (FB and Twitter)
+- Change header2.jpg to header4.jpg to see how the header would look like in blue. (agency.css)
+
+To Do
+- remove place holder pictures
+- need to position gas prices else where if needed
+- add service pages (More info)
+- change services icons
+- need pictures
